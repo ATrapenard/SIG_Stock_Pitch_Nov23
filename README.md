@@ -1,3 +1,2 @@
-# SIG_Stock_Pitch_Nov23
-A repository dedicated to the compilation of code and other materials for the Sustainable Investment Group at UCSD's CFA Stock Pitch Competition November 2023.  
-This stock pitch was selected as one of the two winners judged by: Cyrille Mahfoud, CFA; Stanley Martinez, CFA; Mike Tsoukatos, CFA, CAIA
+# SIG At UCSD Stock Pitch Presentation
+Investment Project - Utilized LSTM forecasting, Rolling Sharpe Regression, and Market Share analysis on Cisco financial data, working with Sustainability Analysis, Marketing, R&D, and Equity team members, to project stock performance, and inform a buy, sell, or hold recommendation for the Chartered Financial Analyst (CFA) Society of San Diego.
